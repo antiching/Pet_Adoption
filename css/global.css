@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@1,700&family=M+PLUS+Rounded+1c:wght@400;500;700;900&display=swap');
+
+:root {
+    --white-color: rgb(255, 255, 255);
+    font-family: 'Josefin Slab', serif;
+}
