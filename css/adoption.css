@@ -1,0 +1,29 @@
+.adoption_section1 {
+    height: 100vh;
+    background-color: #fceed5;
+}
+
+.adoption_slogan {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 54px;
+    font-weight: 800;
+}
+
+.adoption_slogan_subtitle {
+    font-size: 40px;
+}
+
+.slogans{
+    width: 54%;
+}
+
+
+/* 背景 */
+.adoption_section1_multi_bg {
+    background-image: url(../image/Adoption/section1/Rectangle2.png), url(../image/Adoption/section1/Rectangle1.png),
+        url(../image/Adoption/section1/Rectangle3.png),url(../image/Adoption/section1/Rectangle4.png),url(../image/Adoption/section1/Rectangle5.png),url(../image/Adoption/section1/Rectangle6.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position:90% bottom, 80% bottom,left top ;
+    background-size: 666px, 600px, 635px,10px,10px,10px;
+}
