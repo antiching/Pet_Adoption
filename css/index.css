@@ -133,7 +133,7 @@
     position: absolute;
     background-image: url(../image/home/section7/pattern1.png);
     background-repeat: no-repeat;
-    background-position: 10%, 40%, 10% 50%;
+    background-position: 45%, 40%, 10% 50%;
 }
 
 /* section1 */
@@ -430,7 +430,7 @@ nav.homepage {
 
 .link > li {
     font-family: 'M PLUS Rounded 1c', sans-serif;
-    padding: 6px;
+    padding: 6px 16px;
     font-size: 18px;
     letter-spacing: 2px;
     line-height: 30px;
